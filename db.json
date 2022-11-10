@@ -1,29 +1,8 @@
 {
-  "usuarios": [
+  "produtos": [
     {
       "id": 1,
-      "title": "PORT",
-      "author": "TESTE"
-    },
-    {
-      "id": 2
-      "title": "PORT2",
-      "author": "TESTE3"
-    },
-    {
-      "title": "TESTEPOST",
-      "author": "PORTARIA",
-      "id": 3
+      "nome": "TESTE"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    ]
 }
