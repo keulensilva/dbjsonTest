@@ -31,5 +31,15 @@
       "autorizado": "false"
     }
     ]
+  "usuarios": [
+    {
+      "id": "1",
+      "usuario": "admin"
+    },
+    {
+      "id": "2",
+      "usuario": "teste"
+    }
+    ]
 
 }
