@@ -43,5 +43,31 @@
       "usuario": "teste"
     }
     ]
+  "plano": [
+  {
+    "PROXIMO": 23/11/2022,
+    "SETOR": "MOAGEM VIA SECA(PREP. DE MASSA)",
+    "EQUIPAMENTO": "CORREIA TRANSPORTADORA M18 - REV.DESC.SILOS 5.8",
+    "TAREFA": "Lubrificar",
+    "COMENTARIO": "",
+    "FREQUENCIA" 60
+  },
+  {
+    "PROXIMO": 20/11/2024,
+    "SETOR": "MOAGEM VIA SECA(PREP. DE MASSA)",
+    "EQUIPAMENTO": "CORREIA TRANSPORTADORA M19 - REV.DESC.SILOS 5.9",
+    "TAREFA": "Trocar oleo",
+    "COMENTARIO": "",
+    "FREQUENCIA" 730
+  },
+ {
+    "PROXIMO": 15/11/2022,
+    "SETOR": "MOAGEM VIA SECA(PREP. DE MASSA)",
+    "EQUIPAMENTO": "CORREIA TRANSPORTADORA M20 - REV.DESC.SILOS 6.0",
+    "TAREFA": "Verificar nivel",
+    "COMENTARIO": "",
+    "FREQUENCIA" 90
+   }
+  ]
 
 }
