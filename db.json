@@ -43,11 +43,7 @@
       "usuario": "teste"
     }
     ],
-  "plano": [ 
-    {
-      "ID": "1",
-      "PLANO": "40 - Insp.Mecânica - PH8 (L4)",
-      "LISTAS": {
+{
     "PROXIMO": "23/11/2022",
     "SETOR": "MOAGEM VIA SECA(PREP. DE MASSA)",
     "EQUIPAMENTO": "CORREIA TRANSPORTADORA M18 - REV.DESC.SILOS 5.8",
@@ -71,8 +67,7 @@
     "COMENTARIO": "",
     "FREQUENCIA": "90"
    }
-    }
-     
+    
   ]
 
 }
