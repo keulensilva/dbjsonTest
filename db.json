@@ -1,24 +1,5 @@
 {
-  "produtos": [
-    {
-      "id": 1,
-      "nome": "TESTE"
-    }
-    ],
-  "solicitacao": [
-    {
-      "id": "1",
-      "usuario": "admin",
-      "acao": "saida",
-      "motivo": "ocorreu divergencias e por esse motivo foi necessário fazer hora extra"
-    },
-    {
-      "id": "2",
-      "usuario": "teste",
-      "acao": "entrada",
-      "motivo": "onibus atrasou e por esse motivo acabei chegando atrasado"
-    }
-    ],
+  
   "aprovacao": [
     {
       "id": "1",
