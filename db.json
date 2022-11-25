@@ -72,6 +72,18 @@
     "FREQUENCIA": "90"
    }
     
-  ]
-
+  ],
+  "OCORRENCIA": [{
+    "ID": "1",
+    "OCORRENCIA": "Serviço Exec./Normal"
+  },
+{
+  "ID": "2",
+  "OCORRENCIA": "Desgaste / Folga"  
+},
+{
+  "ID": "3",
+  "OCORRENCIA": "Vazamento / Aquecimento"
+}
+[
 }
