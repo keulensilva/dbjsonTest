@@ -12,7 +12,7 @@
       "SETOR": "MOAGEM VIA SECA(PREP. DE MASSA)",
       "FREQUENCIA": "730",
      "FINALIZADO": "OK"
-    },
+    }],
   "usuarios": [
     {
       "id": "1",
@@ -66,4 +66,3 @@
   "OCORRENCIA": "Vazamento / Aquecimento"
 }]
 }
-                
