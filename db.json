@@ -2,17 +2,17 @@
   
   "FINALIZADOS": [
      {
-    "OCORRENCIA": "Serviço Exec./Normal",
-    "SETOR": "MOAGEM VIA SECA(PREP. DE MASSA)",   
-    "FREQUENCIA": "60",
-    "FINALIZADO": "OK"
-  },
-  {
-    "OCORRENCIA": "Serviço Exec./Normal",
-    "SETOR": "MOAGEM VIA SECA(PREP. DE MASSA)",
-    "FREQUENCIA": "730",
-    "FINALIZADO": "OK"
-  },
+       "OCORRENCIA": "Serviço Exec./Normal",
+       "SETOR": "MOAGEM VIA SECA(PREP. DE MASSA)",   
+       "FREQUENCIA": "60",
+       "FINALIZADO": "OK"
+    },
+    {
+      "OCORRENCIA": "Serviço Exec./Normal",
+      "SETOR": "MOAGEM VIA SECA(PREP. DE MASSA)",
+      "FREQUENCIA": "730",
+     "FINALIZADO": "OK"
+    },
   "usuarios": [
     {
       "id": "1",
